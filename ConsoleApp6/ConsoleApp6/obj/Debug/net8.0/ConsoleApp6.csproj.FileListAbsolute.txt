@@ -1,0 +1,14 @@
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
